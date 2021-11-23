@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.singleValue{
+    color:fuchsia;
+}
+
+.sum{
+    color:lightgreen;
+}
+
+.content2{
+    padding: 10px 1px;
+    /*min-height: calc(100% - 123px);*/
+    background-color:green;
+}
